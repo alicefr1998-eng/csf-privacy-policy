@@ -3,8 +3,6 @@
 **Ultimo aggiornamento:** 6 giugno 2026
 **Versione applicazione:** 1.0.0
 
-> ℹ️ I campi tra parentesi quadre `[...]` vanno compilati dal Titolare prima della pubblicazione (vedi `privacy/compliance-checklist.md`).
-
 ---
 
 ## In breve
@@ -25,7 +23,7 @@ La versione completa qui sotto spiega tutto in dettaglio, come richiesto dal Reg
 Il Titolare del trattamento dei dati personali è:
 
 - **Alice Frugone**
-- Email di contatto per la privacy: **privacy@chesifa.it**
+- Email di contatto per la privacy: **chesifa.app@gmail.com**
 
 Per qualsiasi richiesta relativa ai tuoi dati personali o all'esercizio dei tuoi diritti puoi scrivere all'indirizzo email sopra indicato.
 
@@ -180,7 +178,7 @@ Potremmo aggiornare questa informativa per riflettere modifiche all'App o agli o
 
 Per qualsiasi domanda su questa informativa o sul trattamento dei tuoi dati:
 
-- **Email:** privacy@chesifa.it
+- **Email:** chesifa.app@gmail.com
 - **Titolare:** Alice Frugone, Italia
 
 ---

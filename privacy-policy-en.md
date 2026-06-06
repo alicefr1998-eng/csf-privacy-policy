@@ -3,8 +3,6 @@
 **Last updated:** 6 June 2026
 **App version:** 1.0.0
 
-> ℹ️ This is a courtesy translation. The **Italian version is the authoritative one**. Fields in square brackets `[...]` must be completed by the Data Controller before publication (see `privacy/compliance-checklist.md`).
-
 ---
 
 ## At a glance
@@ -25,7 +23,7 @@ The full version below explains everything in detail, as required by Regulation 
 The controller of your personal data is:
 
 - **Alice Frugone**
-- Privacy contact email: **privacy@chesifa.it**
+- Privacy contact email: **chesifa.app@gmail.com**
 
 For any request regarding your personal data or the exercise of your rights, write to the email address above.
 
@@ -180,7 +178,7 @@ We may update this policy to reflect changes to the App or legal obligations. Th
 
 For any question about this policy or the processing of your data:
 
-- **Email:** privacy@chesifa.it
+- **Email:** chesifa.app@gmail.com
 - **Controller:** Alice Frugone, Italy
 
 ---

@@ -7,7 +7,7 @@
 
 ## In breve
 
-- **Che si fa?** è un'app gratuita che ti mostra eventi e luoghi del Levante ligure (Tigullio, Golfo Paradiso, Val Graveglia, Val d'Aveto). La usi **in forma anonima, senza registrazione e senza account**.
+- **Che si fa?** è un'app gratuita che ti mostra eventi e luoghi del Levante ligure (Tigullio, Golfo Paradiso, Val Graveglia, Val d'Aveto, ecc.). La usi **in forma anonima, senza registrazione e senza account**.
 - **Non ti chiediamo nome, email o numero di telefono.**
 - I tuoi **eventi salvati, preferiti e impostazioni restano sul tuo dispositivo** e non vengono caricati su nessun server.
 - Usiamo strumenti di **diagnostica dei crash** (per tenere l'app stabile) e, **solo con il tuo consenso**, strumenti di **statistica d'uso anonima** (per capire cosa funziona). Puoi cambiare idea quando vuoi dalle impostazioni.
@@ -35,7 +35,7 @@ Non è stato nominato un Responsabile della Protezione dei Dati (DPO), in quanto
 
 Questa informativa descrive come tratti­amo i dati di chi utilizza l'applicazione mobile **Che si fa?** ("l'App") su iOS, Android e web. L'App è un aggregatore di contenuti in **sola lettura**: gli eventi e i luoghi sono inseriti da un sistema esterno e tu li consulti, senza poterli modificare.
 
-L'App è pensata per residenti, turisti e appassionati di outdoor. **Non è destinata a minori di 14 anni** (vedi § 12).
+L'App è pensata per residenti, turisti e appassionati di outdoor. **Non è destinata a minori di 13 anni** (vedi § 12).
 
 ---
 
@@ -158,7 +158,7 @@ Adottiamo misure tecniche e organizzative adeguate a proteggere i dati. In parti
 
 ## 12. Minori
 
-L'App **non è destinata a minori di 14 anni** (età del consenso digitale in Italia ai sensi dell'art. 2-quinquies del Codice Privacy). Non raccogliamo consapevolmente dati di minori di 14 anni. Se sei un genitore o tutore e ritieni che un minore ci abbia fornito dati, contattaci all'indirizzo del § 1 e provvederemo a cancellarli.
+L'App **non è destinata a minori di 13 anni** (età del consenso digitale in Italia ai sensi dell'art. 2-quinquies del Codice Privacy). Non raccogliamo consapevolmente dati di minori di 13 anni. Se sei un genitore o tutore e ritieni che un minore ci abbia fornito dati, contattaci all'indirizzo del § 1 e provvederemo a cancellarli.
 
 ---
 

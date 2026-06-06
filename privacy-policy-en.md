@@ -7,7 +7,7 @@
 
 ## At a glance
 
-- **Che si fa?** is a free app that shows you events and places in the Ligurian Levante (Tigullio, Golfo Paradiso, Val Graveglia, Val d'Aveto). You use it **anonymously, with no sign-up and no account**.
+- **Che si fa?** is a free app that shows you events and places in the Ligurian Levante (Tigullio, Golfo Paradiso, Val Graveglia, Val d'Aveto, etc.). You use it **anonymously, with no sign-up and no account**.
 - **We never ask for your name, email or phone number.**
 - Your **saved events, favourites and settings stay on your device** and are never uploaded to any server.
 - We use **crash diagnostics** (to keep the app stable) and, **only with your consent**, **anonymous usage analytics** (to understand what works). You can change your mind anytime in settings.
@@ -35,7 +35,7 @@ No Data Protection Officer (DPO) has been appointed, as the conditions of Art. 3
 
 This policy describes how we process data of users of the **Che si fa?** mobile application ("the App") on iOS, Android and web. The App is a **read-only** content aggregator: events and places are supplied by an external system and you browse them without being able to edit them.
 
-The App is intended for residents, tourists and outdoor enthusiasts. It is **not intended for children under 14** (see § 12).
+The App is intended for residents, tourists and outdoor enthusiasts. It is **not intended for children under 13** (see § 12).
 
 ---
 
@@ -158,7 +158,7 @@ We do **not** carry out any automated decision-making or profiling producing leg
 
 ## 12. Children
 
-The App is **not intended for children under 14** (the age of digital consent in Italy under Art. 2-quinquies of the Privacy Code). We do not knowingly collect data from children under 14. If you are a parent or guardian and believe a minor has provided us with data, contact us at the address in § 1 and we will delete it.
+The App is **not intended for children under 13** (the age of digital consent in Italy under Art. 2-quinquies of the Privacy Code). We do not knowingly collect data from children under 13. If you are a parent or guardian and believe a minor has provided us with data, contact us at the address in § 1 and we will delete it.
 
 ---
 

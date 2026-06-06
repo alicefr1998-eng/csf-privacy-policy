@@ -170,7 +170,7 @@ The App is distributed via the **Apple App Store** and **Google Play**. Download
 
 ## 14. Changes to this policy
 
-We may update this policy to reflect changes to the App or legal obligations. The current version is always available at **[URL where you publish the policy]** and, for significant changes, we will notify you within the App. The date at the top indicates the last update.
+We may update this policy to reflect changes to the App or legal obligations. The current version is always available at **https://alicefr1998-eng.github.io/csf-privacy-policy/** and, for significant changes, we will notify you within the App. The date at the top indicates the last update.
 
 ---
 
